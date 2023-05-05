@@ -6,13 +6,15 @@
     "boardgamegeek": {
         "user_name": "lanfear",
         "extra_params": {
-            "own": 1
+            "own": 1,
+            "wishlist": 1,
+            "trade": 1
         }
     },
     "algolia": {
         "app_id": "AQYKYTBXH3",
         "api_key_search_only": "05a606391cd31b75635d644c42db09c2",
         "index_name": "mybgg",
-        "hits_per_page": 24
+        "hits_per_page": 50
     }
 }
