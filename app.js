@@ -196,15 +196,6 @@ function get_widgets(SETTINGS) {
         ]
       }
     ),
-    "refine_previousplayers": panel('Previous players')(instantsearch.widgets.refinementList)(
-      {
-        container: '#facet-previous-players',
-        attribute: 'previous_players',
-        operator: 'and',
-        searchable: true,
-        showMore: true,
-      }
-    ),
     "refine_numplays": panel('Total plays')(instantsearch.widgets.numericMenu)(
       {
         container: '#facet-numplays',
