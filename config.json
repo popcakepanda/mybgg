@@ -6,9 +6,7 @@
     "boardgamegeek": {
         "user_name": "lanfear",
         "extra_params": {
-            "own": 1,
-            "wishlist": 1,
-            "trade": 1
+            "own": 1
         }
     },
     "algolia": {
