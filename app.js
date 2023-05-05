@@ -337,7 +337,7 @@ function init(SETTINGS) {
     widgets["hits"],
     widgets["stats"],
     widgets["pagination"],
-    widgets["refine_previousplayers"],
+    // widgets["refine_previousplayers"],
     widgets["refine_numplays"]
   ]);
 
